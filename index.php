@@ -10,11 +10,11 @@
 
     <!-- Carousel Start -->
     <div class="container-fluid p-0 mb-5">
-        <a href="index.php" class="logo">
-            <img src="img/logo.png" alt="">
-        </a>
         <div class="owl-carousel header-carousel position-relative">
             <div class="owl-carousel-item position-relative">
+                <a href="index.php" class="logo">
+                    <img src="img/logo.png" alt="">
+                </a>
                 <img class="img-fluid" src="img/carousel-1.jpg" alt="">
                 <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(24, 29, 56, .7);">
                     <div class="container">
@@ -31,6 +31,9 @@
                 </div>
             </div>
             <div class="owl-carousel-item position-relative">
+                <a href="index.php" class="logo">
+                    <img src="img/logo.png" alt="">
+                </a>
                 <img class="img-fluid" src="img/carousel-2.jpg" alt="">
                 <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(24, 29, 56, .7);">
                     <div class="container">
@@ -57,11 +60,11 @@
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
                     <div class="position-relative h-100">
-                        <img class="img-fluid position-absolute w-100 h-100" src="img/about.jpg" alt="" style="object-fit: cover;">
+                        <img class="img-fluid position-absolute w-100 h-100" src="img/estudiantes.jpg" alt="" style="object-fit: cover;">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <h6 class="section-title bg-white text-start text-primary pe-3">Acerda de Nosotros</h6>
+                    <h6 class="section-title bg-white text-start text-primary pe-3">Acerca de Nosotros</h6>
                     <h1 class="mb-4">Bienvenido al Instituto Porfirio Barba Jacob</h1>
                     <p class="mb-4">Como Institución de Educación para el Trabajo y el Desarrollo Humano.</p>
                     <p class="mb-4">El proceso formativo del estudiante es diseñado con base en el desarrollo de competencias
@@ -78,8 +81,8 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-                <h6 class="section-title bg-white text-center text-primary px-3">Instructors</h6>
-                <h1 class="mb-5">Expert Instructors</h1>
+                <h6 class="section-title bg-white text-center text-primary px-3">Docentes</h6>
+                <h1 class="mb-5">Docentes Expertos</h1>
             </div>
             <div class="row g-4">
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -95,8 +98,8 @@
                             </div>
                         </div>
                         <div class="text-center p-4">
-                            <h5 class="mb-0">Instructor Name</h5>
-                            <small>Designation</small>
+                            <h5 class="mb-0">Nombre del Docente</h5>
+                            <small>Area</small>
                         </div>
                     </div>
                 </div>
@@ -113,8 +116,8 @@
                             </div>
                         </div>
                         <div class="text-center p-4">
-                            <h5 class="mb-0">Instructor Name</h5>
-                            <small>Designation</small>
+                            <h5 class="mb-0">Nombre del Docente</h5>
+                            <small>Area</small>
                         </div>
                     </div>
                 </div>
@@ -131,8 +134,8 @@
                             </div>
                         </div>
                         <div class="text-center p-4">
-                            <h5 class="mb-0">Instructor Name</h5>
-                            <small>Designation</small>
+                            <h5 class="mb-0">Nombre del Docente</h5>
+                            <small>Area</small>
                         </div>
                     </div>
                 </div>
@@ -149,8 +152,8 @@
                             </div>
                         </div>
                         <div class="text-center p-4">
-                            <h5 class="mb-0">Instructor Name</h5>
-                            <small>Designation</small>
+                            <h5 class="mb-0">Nombre del Docente</h5>
+                            <small>Area</small>
                         </div>
                     </div>
                 </div>
@@ -162,49 +165,49 @@
     <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="text-center">
-                <h6 class="section-title bg-white text-center text-primary px-3">Testimonial</h6>
-                <h1 class="mb-5">Our Students Say!</h1>
+                <h6 class="section-title bg-white text-center text-primary px-3">Testimonios</h6>
+                <h1 class="mb-5">Nuestros Estudiantes Dicen!</h1>
             </div>
             <div class="owl-carousel testimonial-carousel position-relative">
                 <div class="testimonial-item text-center">
                     <img class="border rounded-circle p-2 mx-auto mb-3" src="img/testimonial-1.jpg" style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">Client Name</h5>
-                    <p>Profession</p>
+                    <h5 class="mb-0">Nombre del Estudiante</h5>
+                    <p>Profesión</p>
                     <div class="testimonial-text bg-light text-center p-4">
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                        <p class="mb-0">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus libero dolor quam inventore distinctio, ullam laboriosam maxime soluta voluptas harum.</p>
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
                     <img class="border rounded-circle p-2 mx-auto mb-3" src="img/testimonial-2.jpg" style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">Client Name</h5>
-                    <p>Profession</p>
+                    <h5 class="mb-0">Nombre del Estudiante</h5>
+                    <p>Profesión</p>
                     <div class="testimonial-text bg-light text-center p-4">
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                        <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda inventore modi quas iste et eos?</p>
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
                     <img class="border rounded-circle p-2 mx-auto mb-3" src="img/testimonial-3.jpg" style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">Client Name</h5>
-                    <p>Profession</p>
+                    <h5 class="mb-0">Nombre del Estudiante</h5>
+                    <p>Profesión</p>
                     <div class="testimonial-text bg-light text-center p-4">
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                        <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non corrupti incidunt voluptates debitis dicta, labore saepe tempore accusantium.</p>
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
                     <img class="border rounded-circle p-2 mx-auto mb-3" src="img/testimonial-4.jpg" style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">Client Name</h5>
-                    <p>Profession</p>
+                    <h5 class="mb-0">Nombre del Estudiante</h5>
+                    <p>Profesión</p>
                     <div class="testimonial-text bg-light text-center p-4">
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                        <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure a, repudiandae voluptatem obcaecati commodi vel sunt illo rem rerum facilis sapiente consequatur?</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <!-- Testimonial End -->
-        
-    <?php 
-    include 'controllers/footer.php'; 
+
+    <?php
+    include 'controllers/footer.php';
     include 'controllers/scripts.php';
     ?>
 

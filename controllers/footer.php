@@ -16,10 +16,9 @@
                 <p class="mb-2"><i class="fa fa-envelope me-3"></i>ieetdhporfiriobarbajacob@gmail.com</p>
             </div>
             <div class="col-lg-4 col-md-6 d-flex pt-2 justify-content-end">
-                <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                 <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
-                <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-youtube"></i></a>
-                <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
+                <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-whatsapp"></i></a>
+                <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-instagram"></i></a>
             </div>
         </div>
     </div>
@@ -38,4 +37,20 @@
 </div>
 <!-- Footer End -->
 <!-- Back to Top -->
-<a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+<!-- <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a> -->
+
+<div class="hvr-region">
+    <!-- Icono principal de compartir -->
+    <i class="fas fa-share-alt main-icon"></i>
+
+    <!-- Botones de redes sociales -->
+    <a href="https://www.facebook.com/somospropiedadinmobiliaria" target="_blank" class="btn btn1">
+        <i class="fab fa-facebook-f" aria-hidden="true"></i>
+    </a>
+    <a href="https://wa.link/hmoin4" target="_blank" class="btn btn2">
+        <i class="fab fa-whatsapp" aria-hidden="true"></i>
+    </a>
+    <a href="https://www.instagram.com/somospropiedad_inmobiliaria/?igsh=am5hY25vdjk1Nmxp#" target="_blank" class="btn btn3">
+        <i class="fab fa-instagram" aria-hidden="true"></i>
+    </a>
+</div>
